@@ -1,0 +1,16 @@
+D:\Programavimas2\OOP\WarehouseManagement\WarehouseManagement.ConsoleApp\bin\Debug\net5.0\WarehouseManagement.ConsoleApp.exe
+D:\Programavimas2\OOP\WarehouseManagement\WarehouseManagement.ConsoleApp\bin\Debug\net5.0\WarehouseManagement.ConsoleApp.deps.json
+D:\Programavimas2\OOP\WarehouseManagement\WarehouseManagement.ConsoleApp\bin\Debug\net5.0\WarehouseManagement.ConsoleApp.runtimeconfig.json
+D:\Programavimas2\OOP\WarehouseManagement\WarehouseManagement.ConsoleApp\bin\Debug\net5.0\WarehouseManagement.ConsoleApp.runtimeconfig.dev.json
+D:\Programavimas2\OOP\WarehouseManagement\WarehouseManagement.ConsoleApp\bin\Debug\net5.0\WarehouseManagement.ConsoleApp.dll
+D:\Programavimas2\OOP\WarehouseManagement\WarehouseManagement.ConsoleApp\bin\Debug\net5.0\WarehouseManagement.ConsoleApp.pdb
+D:\Programavimas2\OOP\WarehouseManagement\WarehouseManagement.ConsoleApp\obj\Debug\net5.0\WarehouseManagement.ConsoleApp.csproj.AssemblyReference.cache
+D:\Programavimas2\OOP\WarehouseManagement\WarehouseManagement.ConsoleApp\obj\Debug\net5.0\WarehouseManagement.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programavimas2\OOP\WarehouseManagement\WarehouseManagement.ConsoleApp\obj\Debug\net5.0\WarehouseManagement.ConsoleApp.AssemblyInfoInputs.cache
+D:\Programavimas2\OOP\WarehouseManagement\WarehouseManagement.ConsoleApp\obj\Debug\net5.0\WarehouseManagement.ConsoleApp.AssemblyInfo.cs
+D:\Programavimas2\OOP\WarehouseManagement\WarehouseManagement.ConsoleApp\obj\Debug\net5.0\WarehouseManagement.ConsoleApp.csproj.CoreCompileInputs.cache
+D:\Programavimas2\OOP\WarehouseManagement\WarehouseManagement.ConsoleApp\obj\Debug\net5.0\WarehouseManagement.ConsoleApp.dll
+D:\Programavimas2\OOP\WarehouseManagement\WarehouseManagement.ConsoleApp\obj\Debug\net5.0\refint\WarehouseManagement.ConsoleApp.dll
+D:\Programavimas2\OOP\WarehouseManagement\WarehouseManagement.ConsoleApp\obj\Debug\net5.0\WarehouseManagement.ConsoleApp.pdb
+D:\Programavimas2\OOP\WarehouseManagement\WarehouseManagement.ConsoleApp\obj\Debug\net5.0\WarehouseManagement.ConsoleApp.genruntimeconfig.cache
+D:\Programavimas2\OOP\WarehouseManagement\WarehouseManagement.ConsoleApp\obj\Debug\net5.0\ref\WarehouseManagement.ConsoleApp.dll

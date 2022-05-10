@@ -1,0 +1,15 @@
+D:\Programavimas2\OOP\WarehouseManagement\Shop.ConsoleApp\bin\Debug\net6.0\Shop.ConsoleApp.exe
+D:\Programavimas2\OOP\WarehouseManagement\Shop.ConsoleApp\bin\Debug\net6.0\Shop.ConsoleApp.deps.json
+D:\Programavimas2\OOP\WarehouseManagement\Shop.ConsoleApp\bin\Debug\net6.0\Shop.ConsoleApp.runtimeconfig.json
+D:\Programavimas2\OOP\WarehouseManagement\Shop.ConsoleApp\bin\Debug\net6.0\Shop.ConsoleApp.dll
+D:\Programavimas2\OOP\WarehouseManagement\Shop.ConsoleApp\bin\Debug\net6.0\Shop.ConsoleApp.pdb
+D:\Programavimas2\OOP\WarehouseManagement\Shop.ConsoleApp\obj\Debug\net6.0\Shop.ConsoleApp.csproj.AssemblyReference.cache
+D:\Programavimas2\OOP\WarehouseManagement\Shop.ConsoleApp\obj\Debug\net6.0\Shop.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programavimas2\OOP\WarehouseManagement\Shop.ConsoleApp\obj\Debug\net6.0\Shop.ConsoleApp.AssemblyInfoInputs.cache
+D:\Programavimas2\OOP\WarehouseManagement\Shop.ConsoleApp\obj\Debug\net6.0\Shop.ConsoleApp.AssemblyInfo.cs
+D:\Programavimas2\OOP\WarehouseManagement\Shop.ConsoleApp\obj\Debug\net6.0\Shop.ConsoleApp.csproj.CoreCompileInputs.cache
+D:\Programavimas2\OOP\WarehouseManagement\Shop.ConsoleApp\obj\Debug\net6.0\Shop.ConsoleApp.dll
+D:\Programavimas2\OOP\WarehouseManagement\Shop.ConsoleApp\obj\Debug\net6.0\refint\Shop.ConsoleApp.dll
+D:\Programavimas2\OOP\WarehouseManagement\Shop.ConsoleApp\obj\Debug\net6.0\Shop.ConsoleApp.pdb
+D:\Programavimas2\OOP\WarehouseManagement\Shop.ConsoleApp\obj\Debug\net6.0\Shop.ConsoleApp.genruntimeconfig.cache
+D:\Programavimas2\OOP\WarehouseManagement\Shop.ConsoleApp\obj\Debug\net6.0\ref\Shop.ConsoleApp.dll
