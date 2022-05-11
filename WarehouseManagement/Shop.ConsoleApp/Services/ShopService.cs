@@ -22,7 +22,6 @@ namespace Shop.ConsoleApp.Services
                 Quantity = quantity
             };
             if (!_items.Any(x => x.Name == name))
-            //if(!(_items.Contains(item)))
             {
                 _items.Add(item);
             }

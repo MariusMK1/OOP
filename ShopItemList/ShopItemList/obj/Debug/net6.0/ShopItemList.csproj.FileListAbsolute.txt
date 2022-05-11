@@ -1,0 +1,15 @@
+D:\Programavimas2\OOP\ShopItemList\ShopItemList\bin\Debug\net6.0\ShopItemList.exe
+D:\Programavimas2\OOP\ShopItemList\ShopItemList\bin\Debug\net6.0\ShopItemList.deps.json
+D:\Programavimas2\OOP\ShopItemList\ShopItemList\bin\Debug\net6.0\ShopItemList.runtimeconfig.json
+D:\Programavimas2\OOP\ShopItemList\ShopItemList\bin\Debug\net6.0\ShopItemList.dll
+D:\Programavimas2\OOP\ShopItemList\ShopItemList\bin\Debug\net6.0\ShopItemList.pdb
+D:\Programavimas2\OOP\ShopItemList\ShopItemList\obj\Debug\net6.0\ShopItemList.csproj.AssemblyReference.cache
+D:\Programavimas2\OOP\ShopItemList\ShopItemList\obj\Debug\net6.0\ShopItemList.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programavimas2\OOP\ShopItemList\ShopItemList\obj\Debug\net6.0\ShopItemList.AssemblyInfoInputs.cache
+D:\Programavimas2\OOP\ShopItemList\ShopItemList\obj\Debug\net6.0\ShopItemList.AssemblyInfo.cs
+D:\Programavimas2\OOP\ShopItemList\ShopItemList\obj\Debug\net6.0\ShopItemList.csproj.CoreCompileInputs.cache
+D:\Programavimas2\OOP\ShopItemList\ShopItemList\obj\Debug\net6.0\ShopItemList.dll
+D:\Programavimas2\OOP\ShopItemList\ShopItemList\obj\Debug\net6.0\refint\ShopItemList.dll
+D:\Programavimas2\OOP\ShopItemList\ShopItemList\obj\Debug\net6.0\ShopItemList.pdb
+D:\Programavimas2\OOP\ShopItemList\ShopItemList\obj\Debug\net6.0\ShopItemList.genruntimeconfig.cache
+D:\Programavimas2\OOP\ShopItemList\ShopItemList\obj\Debug\net6.0\ref\ShopItemList.dll
