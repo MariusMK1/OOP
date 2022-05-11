@@ -21,10 +21,14 @@ namespace Shop.ConsoleApp.Services
                 Name = name,
                 Quantity = quantity
             };
-            //if (!_items.Any(x => x.Name == name))
-            if(!(_items.Contains(item)))
+            if (!_items.Any(x => x.Name == name))
+            //if(!(_items.Contains(item)))
             {
                 _items.Add(item);
+            }
+            else
+            {
+                Console.WriteLine("This item already exists!");
             }
         }
         public void Remove(string name)

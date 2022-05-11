@@ -39,6 +39,14 @@ namespace Shop.ConsoleApp.Services
                 string[] splitCommand = command.Split(" ");
                 _shopService.Update(splitCommand[1], splitCommand[2]);
             }
+            else if (command.StartsWith("Exit"))
+            {
+                Environment.Exit(0);
+            }
+            else
+            {
+                Console.WriteLine("Incorrect command");
+            }
         }
     }
 }
