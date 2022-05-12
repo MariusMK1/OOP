@@ -10,15 +10,19 @@ namespace ShopApp.Services
     public class ShopService
     {
         private List<ShopItem> _items;
+        private List<BoughtItem> _boughtItems;
+        public decimal _customerBalance = 20.0M;
         public ShopService()
         {
             _items = new List<ShopItem>();
+            _boughtItems = new List<BoughtItem>();
         }
-        public void Add(string name, string quantity)
+        public void Add(string name, decimal price, int quantity)
         {
             ShopItem item = new ShopItem()
             {
                 Name = name,
+                Price = price,
                 Quantity = quantity
             };
             if (!_items.Any(x => x.Name == name))
@@ -38,7 +42,11 @@ namespace ShopApp.Services
         {
             return _items;
         }
-        public void Update(string name, string quantity)
+        public List<BoughtItem> ShowItems()
+        {
+            return _boughtItems;
+        }
+        public void Update(string name, int quantity)
         {
             foreach (ShopItem item in _items)
             {
@@ -47,6 +55,53 @@ namespace ShopApp.Services
                     item.Quantity = quantity;
                 }
             }
+        }
+        public void Buy(string name, int quantity)
+        {
+            if (_items.Any(x => x.Name == name))
+            {
+                if ((_items.Where(n => n.Name == name).Select(n => n.Quantity).First()) >= quantity)
+                {
+                    decimal boughtForPrice = (_items.Where(n => n.Name == name).Select(n => n.Price).First()) * quantity;
+                    if (boughtForPrice <= _customerBalance)
+                    {
+                        BoughtItem item = new BoughtItem()
+                        {
+                            Name = name,
+                            Quantity = quantity
+                        };
+                        if (!_boughtItems.Any(x => x.Name == name))
+                        {
+                            _boughtItems.Add(item);
+                        }
+                        else
+                        {
+                            _boughtItems = _boughtItems.Where(n => n.Name == name).Select(n => { n.Quantity += quantity; return n; }).ToList();
+                        }
+                        _customerBalance -= boughtForPrice;
+                    }
+                    else
+                    {
+                        Console.WriteLine("Customer does not have enough funds");
+                    }
+                }
+                else
+                {
+                    Console.WriteLine("There is not enough stock of this item");
+                }
+            }
+            else
+            {
+                Console.WriteLine("shop item is not found");
+            }
+        }
+        public void Balance()
+        {
+            Console.WriteLine($"your balance is: {_customerBalance}");
+        }
+        public void TopUp()
+        {
+            _customerBalance = 20.0M;
         }
     }
 }

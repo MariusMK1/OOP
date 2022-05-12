@@ -1,0 +1,15 @@
+D:\Programavimas2\OOP\ShopApp\ShopApp\obj\Debug\net6.0\ShopApp.csproj.AssemblyReference.cache
+D:\Programavimas2\OOP\ShopApp\ShopApp\obj\Debug\net6.0\ShopApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programavimas2\OOP\ShopApp\ShopApp\obj\Debug\net6.0\ShopApp.AssemblyInfoInputs.cache
+D:\Programavimas2\OOP\ShopApp\ShopApp\obj\Debug\net6.0\ShopApp.AssemblyInfo.cs
+D:\Programavimas2\OOP\ShopApp\ShopApp\obj\Debug\net6.0\ShopApp.csproj.CoreCompileInputs.cache
+D:\Programavimas2\OOP\ShopApp\ShopApp\bin\Debug\net6.0\ShopApp.exe
+D:\Programavimas2\OOP\ShopApp\ShopApp\bin\Debug\net6.0\ShopApp.deps.json
+D:\Programavimas2\OOP\ShopApp\ShopApp\bin\Debug\net6.0\ShopApp.runtimeconfig.json
+D:\Programavimas2\OOP\ShopApp\ShopApp\bin\Debug\net6.0\ShopApp.dll
+D:\Programavimas2\OOP\ShopApp\ShopApp\bin\Debug\net6.0\ShopApp.pdb
+D:\Programavimas2\OOP\ShopApp\ShopApp\obj\Debug\net6.0\ShopApp.dll
+D:\Programavimas2\OOP\ShopApp\ShopApp\obj\Debug\net6.0\refint\ShopApp.dll
+D:\Programavimas2\OOP\ShopApp\ShopApp\obj\Debug\net6.0\ShopApp.pdb
+D:\Programavimas2\OOP\ShopApp\ShopApp\obj\Debug\net6.0\ShopApp.genruntimeconfig.cache
+D:\Programavimas2\OOP\ShopApp\ShopApp\obj\Debug\net6.0\ref\ShopApp.dll
