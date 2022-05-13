@@ -11,11 +11,12 @@ namespace ShopApp.Services
     {
         private List<ShopItem> _items;
         private List<BoughtItem> _boughtItems;
-        public decimal _customerBalance = 20.0M;
+        public decimal _customerBalance;
         public ShopService()
         {
             _items = new List<ShopItem>();
             _boughtItems = new List<BoughtItem>();
+            _customerBalance = 20.0M;
         }
         public void Add(string name, decimal price, int quantity)
         {
@@ -97,7 +98,7 @@ namespace ShopApp.Services
         }
         public void Balance()
         {
-            Console.WriteLine($"your balance is: {_customerBalance}");
+            Console.WriteLine($"Your balance is: {_customerBalance}");
         }
         public void TopUp()
         {
